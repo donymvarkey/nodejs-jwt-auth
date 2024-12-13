@@ -1,0 +1,9 @@
+# exclude the node_module directory
+/node_modules
+
+# exclude the logs directory
+/logs
+
+# exclude the .env file
+.env.*
+!.env.example
